@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.example.pathfindingvisualizer.Main
+Class-Path: C:\PathfindingVisualizer\src\main\java\com\example\pathfindi
+ ngvisualizer
+

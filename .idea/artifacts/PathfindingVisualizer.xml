@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="PathfindingVisualizer">
+    <output-path>$PROJECT_DIR$/out/artifacts/PathfindingVisualizer</output-path>
+    <root id="root">
+      <element id="archive" name="PathfindingVisualizer.jar">
+        <element id="module-output" name="PathfindingVisualizer" />
+      </element>
+    </root>
+  </artifact>
+</component>
